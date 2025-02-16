@@ -3,6 +3,8 @@ using WebApplication1.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using WebApplication1.Data;
+using Microsoft.AspNetCore.Identity;
+using WebApplication1.Areas.Identity.Data;
 
 namespace WebApplication1
 {
@@ -13,6 +15,8 @@ namespace WebApplication1
             var builder = WebApplication.CreateBuilder(args);
             builder.Services.AddDbContext<WebApplication1Context>(options =>
                 options.UseSqlServer(builder.Configuration.GetConnectionString("WebApplication1Context") ?? throw new InvalidOperationException("Connection string 'WebApplication1Context' not found.")));
+
+            builder.Services.AddDefaultIdentity<PostUser>(options => options.SignIn.RequireConfirmedAccount = true).AddEntityFrameworkStores<WebApplication1Context>();
 
             // Add services to the container.
 
@@ -36,6 +40,7 @@ namespace WebApplication1
 
 
             app.MapControllers();
+            app.MapRazorPages();
 
             Post meow = new Post
             {
