@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -10,6 +11,7 @@ using WebApplication1.Models;
 
 namespace WebApplication1
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class CategoriesController : ControllerBase
@@ -22,6 +24,7 @@ namespace WebApplication1
         }
 
         // GET: api/Categories
+        [AllowAnonymous]
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Category>>> GetCategory()
         {
@@ -29,6 +32,7 @@ namespace WebApplication1
         }
 
         // GET: api/Categories/5
+        [AllowAnonymous]
         [HttpGet("{id}")]
         public async Task<ActionResult<Category>> GetCategory(int id)
         {

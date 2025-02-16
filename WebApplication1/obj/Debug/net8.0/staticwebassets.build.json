@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "e88VJ5Yd1zm+66oq9akL9Xx4ydoQ1Z1qk9J/s7NSp04=",
+  "Hash": "1q68cUhE8+NNmhuWSM7ZJe73zUXRVzRTUQUvqKDH4us=",
   "Source": "WebApplication1",
   "BasePath": "_content/WebApplication1",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "WebApplication1\\wwwroot",
       "Source": "WebApplication1",
-      "ContentRoot": "F:\\ASP net\\mrow\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Willi\\OneDrive\\Desktop\\College Work\\I T\\Adv Web App\\BackEndAPI\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "Pattern": "**"
     }
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "C:\\Users\\Willi\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.11\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "F:\\ASP net\\mrow\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Willi\\OneDrive\\Desktop\\College Work\\I T\\Adv Web App\\BackEndAPI\\WebApplication1\\wwwroot\\css\\site.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ASP net\\mrow\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Willi\\OneDrive\\Desktop\\College Work\\I T\\Adv Web App\\BackEndAPI\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "F:\\ASP net\\mrow\\WebApplication1\\WebApplication1\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Willi\\OneDrive\\Desktop\\College Work\\I T\\Adv Web App\\BackEndAPI\\WebApplication1\\wwwroot\\favicon.ico",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ASP net\\mrow\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Willi\\OneDrive\\Desktop\\College Work\\I T\\Adv Web App\\BackEndAPI\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "F:\\ASP net\\mrow\\WebApplication1\\WebApplication1\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\Willi\\OneDrive\\Desktop\\College Work\\I T\\Adv Web App\\BackEndAPI\\WebApplication1\\wwwroot\\js\\site.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ASP net\\mrow\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Willi\\OneDrive\\Desktop\\College Work\\I T\\Adv Web App\\BackEndAPI\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "F:\\ASP net\\mrow\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Willi\\OneDrive\\Desktop\\College Work\\I T\\Adv Web App\\BackEndAPI\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ASP net\\mrow\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Willi\\OneDrive\\Desktop\\College Work\\I T\\Adv Web App\\BackEndAPI\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "F:\\ASP net\\mrow\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Willi\\OneDrive\\Desktop\\College Work\\I T\\Adv Web App\\BackEndAPI\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ASP net\\mrow\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Willi\\OneDrive\\Desktop\\College Work\\I T\\Adv Web App\\BackEndAPI\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "F:\\ASP net\\mrow\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Willi\\OneDrive\\Desktop\\College Work\\I T\\Adv Web App\\BackEndAPI\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ASP net\\mrow\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Willi\\OneDrive\\Desktop\\College Work\\I T\\Adv Web App\\BackEndAPI\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "F:\\ASP net\\mrow\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Willi\\OneDrive\\Desktop\\College Work\\I T\\Adv Web App\\BackEndAPI\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ASP net\\mrow\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Willi\\OneDrive\\Desktop\\College Work\\I T\\Adv Web App\\BackEndAPI\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "F:\\ASP net\\mrow\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Willi\\OneDrive\\Desktop\\College Work\\I T\\Adv Web App\\BackEndAPI\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ASP net\\mrow\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Willi\\OneDrive\\Desktop\\College Work\\I T\\Adv Web App\\BackEndAPI\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "F:\\ASP net\\mrow\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Willi\\OneDrive\\Desktop\\College Work\\I T\\Adv Web App\\BackEndAPI\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ASP net\\mrow\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Willi\\OneDrive\\Desktop\\College Work\\I T\\Adv Web App\\BackEndAPI\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "F:\\ASP net\\mrow\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Willi\\OneDrive\\Desktop\\College Work\\I T\\Adv Web App\\BackEndAPI\\WebApplication1\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ASP net\\mrow\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Willi\\OneDrive\\Desktop\\College Work\\I T\\Adv Web App\\BackEndAPI\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "F:\\ASP net\\mrow\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Willi\\OneDrive\\Desktop\\College Work\\I T\\Adv Web App\\BackEndAPI\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ASP net\\mrow\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Willi\\OneDrive\\Desktop\\College Work\\I T\\Adv Web App\\BackEndAPI\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "F:\\ASP net\\mrow\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Willi\\OneDrive\\Desktop\\College Work\\I T\\Adv Web App\\BackEndAPI\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ASP net\\mrow\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Willi\\OneDrive\\Desktop\\College Work\\I T\\Adv Web App\\BackEndAPI\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "F:\\ASP net\\mrow\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Willi\\OneDrive\\Desktop\\College Work\\I T\\Adv Web App\\BackEndAPI\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ASP net\\mrow\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Willi\\OneDrive\\Desktop\\College Work\\I T\\Adv Web App\\BackEndAPI\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "F:\\ASP net\\mrow\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Willi\\OneDrive\\Desktop\\College Work\\I T\\Adv Web App\\BackEndAPI\\WebApplication1\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ASP net\\mrow\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Willi\\OneDrive\\Desktop\\College Work\\I T\\Adv Web App\\BackEndAPI\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "F:\\ASP net\\mrow\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Willi\\OneDrive\\Desktop\\College Work\\I T\\Adv Web App\\BackEndAPI\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ASP net\\mrow\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Willi\\OneDrive\\Desktop\\College Work\\I T\\Adv Web App\\BackEndAPI\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "F:\\ASP net\\mrow\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Willi\\OneDrive\\Desktop\\College Work\\I T\\Adv Web App\\BackEndAPI\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ASP net\\mrow\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Willi\\OneDrive\\Desktop\\College Work\\I T\\Adv Web App\\BackEndAPI\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "F:\\ASP net\\mrow\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Willi\\OneDrive\\Desktop\\College Work\\I T\\Adv Web App\\BackEndAPI\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ASP net\\mrow\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Willi\\OneDrive\\Desktop\\College Work\\I T\\Adv Web App\\BackEndAPI\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "F:\\ASP net\\mrow\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Willi\\OneDrive\\Desktop\\College Work\\I T\\Adv Web App\\BackEndAPI\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ASP net\\mrow\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Willi\\OneDrive\\Desktop\\College Work\\I T\\Adv Web App\\BackEndAPI\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "F:\\ASP net\\mrow\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Willi\\OneDrive\\Desktop\\College Work\\I T\\Adv Web App\\BackEndAPI\\WebApplication1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ASP net\\mrow\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Willi\\OneDrive\\Desktop\\College Work\\I T\\Adv Web App\\BackEndAPI\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "F:\\ASP net\\mrow\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Willi\\OneDrive\\Desktop\\College Work\\I T\\Adv Web App\\BackEndAPI\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ASP net\\mrow\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Willi\\OneDrive\\Desktop\\College Work\\I T\\Adv Web App\\BackEndAPI\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "F:\\ASP net\\mrow\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Willi\\OneDrive\\Desktop\\College Work\\I T\\Adv Web App\\BackEndAPI\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ASP net\\mrow\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Willi\\OneDrive\\Desktop\\College Work\\I T\\Adv Web App\\BackEndAPI\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
